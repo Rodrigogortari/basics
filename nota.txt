@@ -1,0 +1,9 @@
+A sintaxe refere-se à estrutura de um programa escrito em código, que envolve o conjunto de frases permitidas de uma linguagem, enquanto a semântica expressa o significado associado dessas frases, descrevendo a relação entre o sentido do programa e o modelo computacional.
+
+Texto - .txt
+Python - .py
+Imagens - .jpg .npg
+
+Add + Commit + Push
+
+Versionamento = Versāo
