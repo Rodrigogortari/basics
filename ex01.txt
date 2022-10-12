@@ -1,1 +1,2 @@
-Git
+O que é o Git?
+Git é uma ferramenta (SISTEMA DE CONTROLE DE VERSÃO) que permite que nossos programas criados localmente sejam compartilhados online como se fosse uma "nuvem", onde outras pessoas podem ter acesso e contribuir.
