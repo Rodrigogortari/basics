@@ -2,3 +2,4 @@ auto complete terminal -> tab
 abrir o terminal no VS Code -> cmd + j
 criar um arquivo -> cmd + n
 salvar -> cmd + s
+abrir menu do VS Code -> cmd + shift + p
