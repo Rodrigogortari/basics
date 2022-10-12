@@ -1,2 +1,3 @@
 O que é o Git?
-Git é uma ferramenta (SISTEMA DE CONTROLE DE VERSÃO) que permite que nossos programas criados localmente sejam compartilhados online como se fosse uma "nuvem", onde outras pessoas podem ter acesso e contribuir.
+Git é uma ferramenta (SISTEMA DE CONTROLE DE VERSÃO) que permite que nossos programas criados localmente sejam compartilhados online, uma espécie de "nuvem", onde outras pessoas podem acessar e contribuir.
+como se fosse uma biblioteca online aonde as pessoas tem o acesso ao conteúdo e o poder de adicionar informação.
