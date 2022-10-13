@@ -1,3 +1,9 @@
 O que é o Git?
 Git é uma ferramenta (SISTEMA DE CONTROLE DE VERSÃO) que permite que nossos programas criados localmente sejam compartilhados online, uma espécie de "nuvem", onde outras pessoas podem acessar e contribuir.
 como se fosse uma biblioteca online aonde as pessoas tem o acesso ao conteúdo e o poder de adicionar informação.
+Comandos do Git: add, commit, push, pull;
+Conceito:
+add ->  atualiza o código/projeto: adicionando, ou substituindo informação;
+commit -> confirma/guarda a mudança realizada pelo comando "add";
+push -> sincroniza o projeto entre DA máquina (local) PARA o Git;
+pull -> é o inverso do comando "push", sincroniza o projeto DO Git PARA a máquina (local).
