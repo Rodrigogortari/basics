@@ -1,0 +1,3 @@
+O comando touch permite criar novos arquivos em branco através de uma linha de comando. Como exemplo, digite TOUCH /home/username/Documents/Web.html para criar um arquivo HTML chamado Web dentro do diretório Documents.
+Outro dos principais comandos Linux e que são frequentemente usados pela sua utilidade. O comando grep permite que você procure através de todo texto dentro de um arquivo específico.
+Para ilustrar, use grep blue notepad.txt para procurar pela palavra blue no arquivo notepad. Linhas que contêm a palavra pesquisadas serão mostradas por completo.

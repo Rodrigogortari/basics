@@ -1,0 +1,13 @@
+case sensitive -> quando é importante a diferenciaçao de letra minuscula e maiuscula.
+case insensitive -> quando não é importante.
+
+apende = >>
+sobreescrita = >
+
+pwd = print working directory
+
+\n = quebra linha
+
+para acessar o manual de algum comando usar 'man'
+
+quando nao tiver manual (man) usar --help'
