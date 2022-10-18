@@ -11,3 +11,23 @@ pwd = print working directory
 para acessar o manual de algum comando usar 'man'
 
 quando nao tiver manual (man) usar --help'
+
+Touch = cria arquivo
+
+Code = abre arquivo
+
+Echo = escreve os argumentos (adiciona conteúdo) ao arquivo.
+
+Cat = le o arquivo
+
+Grep = comando de busca em linhas
+
+Cp - copia arquivos do diretório fonte para o diretório local
+
+Mv - move e RENOMEIA arquivos
+
+Rm - comando de remover; diretorios e arquivos
+
+Mkdir - comando usado para criar um novo diretório
+
+Ls -comando utilizado para exibir informações do local (arquivos, pasta, diretorio)
