@@ -1,0 +1,20 @@
+SELECT -> o que eu quero.
+FROM -> de onde eu quero (orgiem).
+WHERE -> filtro para os registros a partir de uma condiçao. 
+AND -> quando usado com WHERE adiciona uma condiçao. 
+OR -> significa OU.
+Diferença entre AND e OR, AND multiplica e OR adiciona.
+
+Fui jogar bola e passei no mercado.
+VERDADE AND VERDADE = VERDADE
+VERDADE AND MENTIRA = MENTIRA
+MENTIRA AND MENTIRA = MENTIRA 
+Quando usamos AND só vamos ter VERDADE quando todas as informaçoes forem verdadeiras.
+
+
+VERDADE OR VERDADE = VERDADE
+VERDADE OR MENTIRA = VERDADE
+MENTIRA OR MENTIRA = MENTIRA
+Quando usamos OR vamos ter VERDADE quando pelo menos uma informaçao for verdadeira.
+
+ORDER BY -> ordenar os dados de forma crescente (ASC); de forma descrescente (DESC).
