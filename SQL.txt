@@ -18,3 +18,34 @@ MENTIRA OR MENTIRA = MENTIRA
 Quando usamos OR vamos ter VERDADE quando pelo menos uma informaçao for verdadeira.
 
 ORDER BY -> ordenar os dados de forma crescente (ASC); de forma descrescente (DESC).
+
+O que o SQL pode fazer?
+
+O SQL pode executar consultas em um banco de dados
+O SQL pode recuperar dados de um banco de dados
+O SQL pode inserir registros em um banco de dados
+O SQL pode atualizar registros em um banco de dados
+O SQL pode excluir registros de um banco de dados
+O SQL pode criar novos bancos de dados
+O SQL pode criar novas tabelas em um banco de dados
+O SQL pode criar procedimentos armazenados em um banco de dados
+O SQL pode criar visualizações em um banco de dados
+O SQL pode definir permissões em tabelas, procedimentos e visualizações;
+
+Alguns dos Comandos SQL Mais Importantes:
+
+SELECT- extrai dados de um banco de dados
+SELECT DISTINCT- extrai dados de um banco de dados EVITANDO duplicações
+UPDATE- atualiza dados em um banco de dados
+DELETE- exclui dados de um banco de dados
+ORDER BY- extrai dados de um banco de dados POR ORDEM: crescente- ASC descrescente- DESC
+LIKE- extrai dados em um padrão específico (PROCURA por detalhe, especificação, padrão)
+COUNT- extrai os números de sua procura especificada
+INSERT INTO- insere novos dados em um banco de dados
+CREATE DATABASE- cria um novo banco de dados
+ALTER DATABASE- modifica um banco de dados
+CREATE TABLE- cria uma nova tabela
+ALTER TABLE- modifica uma tabela
+DROP TABLE- exclui uma tabela
+CREATE INDEX- cria um índice (chave de pesquisa)
+DROP INDEX- exclui um índice
