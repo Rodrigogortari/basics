@@ -31,3 +31,5 @@ Rm - comando de remover; diretorios e arquivos
 Mkdir - comando usado para criar um novo diretório
 
 Ls -comando utilizado para exibir informações do local (arquivos, pasta, diretorio)
+
+Ls -comando utilizado para exibir informações do local (arquivos, pasta, diretorio)
