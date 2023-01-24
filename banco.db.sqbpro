@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="banco.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1601"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="sqlite_sequence" custom_title="0" dock_id="1" table="4,15:mainsqlite_sequence"/><dock_state state="000000ff00000000fd0000000100000002000001d80000021ffc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000001d80000010100ffffff000001d80000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">--nome da pessoa, idade da pessoa, nome do Animal
+--pessoa &lt; 40
+
+--SELECT Pessoa.nome, Pessoa.idade, Animal.nome
+--FROM Pessoa
+--JOIN Animal ON Pessoa.animal_id = Animal.animal_id
+--WHERE Pessoa.idade &lt; 40;
+
+--nome da pessoa,altura da pessoa,carro da Pessoa
+-- pessoa &gt; 1.7
+
+--SELECT Pessoa.nome, Pessoa.altura, Carro.nome, Animal.nome, Animal.especie
+--FROM Pessoa
+--JOIN Carro ON Pessoa.carro_id = Carro.carro_id
+--JOIN Animal ON Pessoa.animal_id = Animal.animal_id
+--WHERE altura &gt; 1.5;
+ 
+--nome da pessoa, idade da pessoa, animal da pessoa
+
+--SELECT Pessoa.nome, Pessoa.idade, Animal.nome AS animal_pessoa
+--FROM Pessoa
+--JOIN Animal ON Pessoa.animal_id = Animal.animal_id
+--ORDER BY Animal.nome ASC;
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>

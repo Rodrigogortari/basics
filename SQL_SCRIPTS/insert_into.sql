@@ -1,0 +1,32 @@
+INSERT INTO Animal (animal_id, nome, idade, especie)  VALUES (1, 'Ozzy', 5, 'cachorro'), 
+                                                             (2, 'Sabine', 2, 'cachorro'),
+                                                             (3, 'Jair', 3, 'tartaruga'),
+                                                             (4, 'Marrua', 11, 'onca'),
+                                                             (5, 'Benjamin', 20, 'burro'),
+                                                             (6, 'Mimosa', 12, 'egua'),
+                                                             (7, 'Joe', 6, 'frango'),
+                                                             (8, 'Napoleao', 8, 'porco'),
+                                                             (9, 'Sansao', 10, 'cavalo'),
+                                                             (10, 'Bola de Neve', 6, 'porco');
+
+INSERT INTO Carro (carro_id, nome, idade, modelo)  VALUES (1, 'AudiA3', 9, 'hatch'),
+                                                          (2, 'HondaAccord', 10, 'sedan'),
+                                                          (3, 'TeslaModelX', 4, 'suv'),
+                                                          (4, 'VolkswagenKombi', 21, 'van'),
+                                                          (5, 'TeslaModelS', 2, 'hatch'),
+                                                          (6, 'LandRoverDiscovery', 2, 'suv'),
+                                                          (7, 'AudiA8L', 1, 'sedan'),
+                                                          (8, 'MINICooperSCabrio', 3, 'conversivel'),
+                                                          (9, 'BentleyMulsanne', 9, 'sedan'),
+                                                          (10, 'JaguarF-Type', 3, 'conversivel');
+
+INSERT INTO Pessoa (pessoa_id, nome, idade, altura, animal_id, carro_id)  VALUES (1, 'Ana Laura', 50, 1.56, 3, 6),
+                                                          (2, 'Andre Luiz', 30, 1.68, 1, 5),
+                                                          (3, 'Rodrigo', 28, 1.69, 2, 4),
+                                                          (4, 'Ingrid', 30, 1.70, 5, 3),
+                                                          (5, 'Marcelo', 33, 1.90, 4, 1),
+                                                          (6, 'Abilio', 29, 1.68, 6, 2),
+                                                          (7, 'Luiz', 60, 1.71, 9, 10),
+                                                          (8, 'Cristina', 45, 1.58, 8, 9),
+                                                          (9, 'Miguel', 3, 0.81, 7, 8),
+                                                          (10, 'Marina', 1, 0.46, 10, 7);                                 
